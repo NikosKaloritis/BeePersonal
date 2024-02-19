@@ -7,7 +7,7 @@ Three.js + Vite + Javascript starter
 - [Jump to CLI commands](#cli-commands)
 
 ---
-![image](https://github.com/NikosKaloritis/PersonalBeeSite/assets/115344643/95fa458e-6363-40c5-a06b-300481d81e8c)
+![image](https://github.com/NikosKaloritis/BeePersonal/assets/115344643/8c475373-a858-427a-83a9-ed6ea938ea35)
 ---
 ## Stuff included
 
