@@ -9,6 +9,9 @@ Three.js + Vite + Javascript starter
 ---
 ![image](https://github.com/NikosKaloritis/BeePersonal/assets/115344643/8c475373-a858-427a-83a9-ed6ea938ea35)
 ---
+
+credits to bokoko / Three.js - Awwwards (also to Andrew Woan)
+
 ## Stuff included
 
 - [x] Geometry
